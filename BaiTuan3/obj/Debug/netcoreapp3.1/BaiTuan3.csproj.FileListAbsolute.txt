@@ -1,0 +1,7 @@
+E:\LT_Windowns\C#\BaiTuan3\BaiTuan3\obj\Debug\netcoreapp3.1\BaiTuan3.csproj.AssemblyReference.cache
+E:\LT_Windowns\C#\BaiTuan3\BaiTuan3\obj\Debug\netcoreapp3.1\BaiTuan3.Form1.resources
+E:\LT_Windowns\C#\BaiTuan3\BaiTuan3\obj\Debug\netcoreapp3.1\BaiTuan3.csproj.GenerateResource.cache
+E:\LT_Windowns\C#\BaiTuan3\BaiTuan3\obj\Debug\netcoreapp3.1\BaiTuan3.GeneratedMSBuildEditorConfig.editorconfig
+E:\LT_Windowns\C#\BaiTuan3\BaiTuan3\obj\Debug\netcoreapp3.1\BaiTuan3.AssemblyInfoInputs.cache
+E:\LT_Windowns\C#\BaiTuan3\BaiTuan3\obj\Debug\netcoreapp3.1\BaiTuan3.AssemblyInfo.cs
+E:\LT_Windowns\C#\BaiTuan3\BaiTuan3\obj\Debug\netcoreapp3.1\BaiTuan3.csproj.CoreCompileInputs.cache
